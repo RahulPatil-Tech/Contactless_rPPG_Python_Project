@@ -1,5 +1,5 @@
 ## Contactless rPPG Python Project
-This project implements a contactless heart rate and respiratory rate measurement using Python and OpenCV.
+This project implements a contactless heart rate and respiratory rate measurement using Python and OpenCV.</br>
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-red)](https://www.instagram.com/blood_burner_47/)
